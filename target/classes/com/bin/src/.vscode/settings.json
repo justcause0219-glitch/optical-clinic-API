@@ -1,0 +1,20 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "MySQL",
+            "database": "project",
+            "username": "root",
+            "password": "Jessa@35"
+        }
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "maven.view": "hierarchical"
+}

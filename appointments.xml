@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookings>
+  <booking>
+    <fullName>Jessa Melargo</fullName>
+    <age>20</age>
+    <contact>09889878987</contact>
+    <doctor>Dr. John Doe</doctor>
+    <time>4:00 PM</time>
+    <date>2025-07-12</date>
+  </booking>
+</bookings>
