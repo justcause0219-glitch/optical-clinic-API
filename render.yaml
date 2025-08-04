@@ -1,0 +1,11 @@
+service:
+  - type: web
+    name: optical-clinic-api
+    env: java
+    buildCommand: ./mvnw clean install
+    buildCommand: java -jar target/*.jar
+    plan: free
+    buildFilter:
+       paths:
+          -pom.xml
+     emvVars: [] 
