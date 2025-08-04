@@ -2,7 +2,7 @@ services:
   - type: web
     name: optical-clinic-api
     env: java
-    buildCommand: ./mvnw clean install
+    buildCommand: mvn clean install
     startCommand: java -jar target/*.jar
     plan: free
     buildFilter:
